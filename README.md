@@ -13,6 +13,11 @@ example - 2025 cs
   - Tasks
     - create team entity, ...
 
+# tasks status
+- Team API implemented
+- Member Test is wip
+- ...
+
 # erd link
 ![ERD Image](example.png)
 

@@ -17,3 +17,4 @@ example - 2025 cs
 ![ERD Image](example.png)
 
 # table create script
+![Table Create Script](table_script.sql)

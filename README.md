@@ -14,5 +14,6 @@ example - 2025 cs
     - create team entity, ...
 
 # erd link
+![ERD Image](example.png)
 
 # table create script
